@@ -1,0 +1,27 @@
+Globe Project:
+    ✔ hello world @done (3/25/2022, 11:50:32 PM)
+
+    ✔ set up 3D environment @done (3/25/2022, 11:50:48 PM)
+    ✔ create sphere @done (3/25/2022, 11:27:11 PM)
+    ✔ find world map image @done (3/25/2022, 11:31:09 PM)
+    ✔ download image using [curl "url" > image.jpg] @done (3/25/2022, 11:31:10 PM)
+    ✔ map world texture to sphere @done (3/25/2022, 11:47:18 PM)
+    
+    ☐ alter texture with shader for atmosphere effect
+        ✔ create first vertex shader @done (3/26/2022, 12:29:30 AM)
+        ✔ install vite-plugin-string @done (3/26/2022, 12:33:00 AM)
+        ✔ create first fragment shader @done (3/26/2022, 12:55:58 AM)
+        ✔ add texture to fragment shader using uniforms @done (3/26/2022, 12:56:01 AM)
+        ✔ transfer vertexUV to framgent shader using varying @done (3/26/2022, 12:56:07 AM)
+        ✔ add shade of blue using vertexnormal @done (3/26/2022, 1:05:53 AM)
+
+    ✔ add extended atmosphere with second shader @done (3/26/2022, 1:28:58 AM)
+
+    ✔ add mouse movement interaction @done (3/26/2022, 1:40:43 AM)
+
+    ✔ add background stars @done (3/26/2022, 2:24:31 AM)
+    
+    ✔ add html and css @done (3/26/2022, 10:35:07 AM)
+    ☐ add clouds texture
+
+    ☐ DONE
